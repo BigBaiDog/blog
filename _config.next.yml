@@ -97,6 +97,7 @@ open_graph:
 # External url should start with http:// or https://
 menu:
   home: / || fa fa-home
+  个人: https://bigbaidog.github.io || fa fa-user
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
